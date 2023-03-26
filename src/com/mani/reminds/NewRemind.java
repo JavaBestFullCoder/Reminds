@@ -49,7 +49,6 @@ public class NewRemind {
     public String getRemindText() {
         return remindText;
     }
-
     public void setRemindText(String remindText) {
         this.remindText = remindText;
     }
